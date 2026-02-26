@@ -12,4 +12,18 @@ public enum Language: String, CaseIterable {
   case enUS = "en-us"
   /// GB English (British English).
   case enGB = "en-gb"
+  /// Spanish.
+  case es = "es"
+  /// French.
+  case frFR = "fr"
+  /// Hindi.
+  case hi = "hi"
+  /// Italian.
+  case it = "it"
+  /// Brazilian Portuguese.
+  case ptBR = "pt-br"
+  /// Mandarin Chinese.
+  case zh = "cmn"
+  /// Japanese.
+  case ja = "ja"
 }
