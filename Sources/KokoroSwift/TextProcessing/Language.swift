@@ -15,7 +15,7 @@ public enum Language: String, CaseIterable {
   /// Spanish.
   case es = "es"
   /// French.
-  case frFR = "fr"
+  case frFR = "fr-fr"
   /// Hindi.
   case hi = "hi"
   /// Italian.
