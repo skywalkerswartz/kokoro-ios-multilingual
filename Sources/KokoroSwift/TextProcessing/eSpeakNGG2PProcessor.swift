@@ -6,6 +6,9 @@
 
 import Foundation
 import eSpeakNGLib
+#if canImport(MisakiSwift)
+import MisakiSwift
+#endif
 
 /// A G2P processor that uses the eSpeak NG library for phonemization.
 /// Requires the eSpeakNGLib framework to be available at compile time.
