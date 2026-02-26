@@ -23,7 +23,7 @@ The upstream library supports only US and British English. This fork adds suppor
 | `Language` case | Code | Language |
 |---|---|---|
 | `.es` | `es` | Spanish |
-| `.frFR` | `fr` | French |
+| `.frFR` | `fr-fr` | French |
 | `.hi` | `hi` | Hindi |
 | `.it` | `it` | Italian |
 | `.ptBR` | `pt-br` | Brazilian Portuguese |
