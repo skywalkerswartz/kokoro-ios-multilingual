@@ -2,6 +2,7 @@
 
 #if canImport(MisakiSwift) && canImport(eSpeakNGLib)
 import Foundation
+import MisakiSwift
 
 /// A G2P processor that routes to the best available engine per language:
 /// - English (enUS, enGB): Misaki — designed for Kokoro, highest quality
